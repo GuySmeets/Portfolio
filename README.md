@@ -1,3 +1,3 @@
 # Portfolio
 
-http://github.com/guysmeets/portfolio - automatic!
+http://guysmeets.github.io/portfolio - automatic!
