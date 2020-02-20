@@ -1,3 +1,3 @@
 # Portfolio
 
-http://guysmeets.github.io/portfolio - automatic!
+view my project: [online] (http://guysmeets.github.io/portfolio) 
